@@ -1,0 +1,23 @@
+// let num1 = 0;
+// let num2 = 0;
+// operation = ('+','-','*','/')
+// total = 0
+// function calculator(operation){
+//     if(operation == '+'){
+//         return num1 + num2 == total
+//     }
+//     else if(operation == '-'){
+//         return num1 - num2 == total
+//     }
+//     else if(operation == '*'){
+//         return num1 * num2 == total
+//     }
+//     else if(operation == '/'){
+//         return num1 / num2 == total
+//     }
+//     return operation
+// }
+// console.log(calculator(234567+65432));
+// console.log(calculator(234567-65432));
+// console.log(calculator(234567*65432));
+// console.log(calculator(234567/65432));
